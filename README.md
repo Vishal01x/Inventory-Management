@@ -20,8 +20,8 @@ Backend: Firebase Realtime Database, Firebase Cloud Storage, and Firebase Authen
 * View Analytics: Check the 'Analytics' section to view bar charts and pie charts showing profit/loss and current stock levels.
 
 # Developers
-* Kanhaiya Kumar - Kanhaiyashukla0.01@gmail.com
 * Vishal Dangi - vishaldangi838@gmail.com
+* Kanhaiya Kumar - Kanhaiyashukla0.01@gmail.com
 
 Project Link: https://github.com/KanhaiyaKumarShukla/Inventory-Management-App
 
