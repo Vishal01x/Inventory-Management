@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- buy_button_background.xml -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <gradient
+                android:startColor="#388E3C"
+                android:endColor="#689F38"
+                android:angle="90" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#4CAF50"
+                android:endColor="#8BC34A"
+                android:angle="90" />
+        </shape>
+    </item>
+</selector>

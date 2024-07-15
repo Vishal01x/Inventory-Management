@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/sell_button_background.xml -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <gradient
+                android:startColor="#E64A19"
+                android:endColor="#FFA000"
+                android:angle="90" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#FF5722"
+                android:endColor="#FFC107"
+                android:angle="90" />
+        </shape>
+    </item>
+</selector>

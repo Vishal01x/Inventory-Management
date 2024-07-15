@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Inventory Management</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint">Enter Categoty Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin_now">Signin Now</string>
+    <string name="signin_text">Enter Required Data to SignIn</string>
+    <string name="username">UserName</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account_signup">Donn\'t have an account? SignUp</string>
+    <string name="sign_up_now">Sign Up Now</string>
+    <string name="signup_text">Enter Required Data to Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">Already have a account! Sign In</string>
+    <string name="quantity">Quantity : </string>
+    <string name="pick_image">Pick Image</string>
+    <string name="enter_stock_name">Enter Stock Name</string>
+    <string name="category">Category</string>
+    <string name="see">Sell</string>
+    <string name="stock_name">Stock Name</string>
+    <string name="hj">Quantity</string>
+    <string name="price">Price</string>
+    <string name="enter_buyer_s_name">Enter Buyer\'s Name</string>
+    <string name="enter_quantity">Enter Quantity</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="amount">Amount -</string>
+    <string name="_250">$250</string>
+</resources>
